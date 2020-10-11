@@ -141,7 +141,7 @@ Class **Main-nav** ma trzy postaci:
 *Zawiera **anim2** animacje, linki do image oraz tekst*
 
 ## Section Feedback-secrion
-backgroun
+background
 ```
 #feedback-section {
   background-image: -o-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
