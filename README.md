@@ -161,7 +161,7 @@ background
   background-attachment: fixed;
 }
 ```
-+
+
 tekst
 
 ## Section Contact-form-section
@@ -169,7 +169,7 @@ tekst
 Tabela **input**
 
 ## Footer-nav
-**icon**, backbround, tekst
+**icon**, background, tekst
 
 ## jQuery
 
